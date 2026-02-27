@@ -9,8 +9,8 @@
 #include <DHT.h>
 
 // ================== WIFI ==================
-#define WIFI_SSID "Bldg 1 1st Floor"
-#define WIFI_PASSWORD "JJmeow2008"
+#define WIFI_SSID "HUAWEI-5G-t4gQ"
+#define WIFI_PASSWORD "bWV8s7gb"
 
 // ================== FIREBASE ==================
 #define API_KEY "AIzaSyBavEigwj3gkqYV-MNlKzrJfmD-QslPowM"
